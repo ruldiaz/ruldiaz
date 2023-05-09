@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://www.linkedin.com/in/rauldf/
+
+I am a Full Stack Developer with a background in Engineering and a Master Degree in Business Management. I have always been passionate about web development and programming and that allows me to lead teams, analyze massive data, and achieve specific goals. Specialized in Front-end or Back-end. Javascript knowledge, agile methodologies, GIT, data structure, algorithms, CSS frameworks. I am proficient in Front End and Back End development with Node JS, React JS, Redux, Express JS, PostreSQL, Mongo DB. With initiative, discipline and communication skills. English level: C1 advanced.
+
+At Henry Bootcamp I developed an individual project about food recipes, that includes a complete crud,
+using Javascript and Node JS, React-Redux, React JS, Express JS and PostreSQL with Sequelize ORM for
+communication with DB. All data were downloaded from an Api. Next, i had the opportunity to work as a member of a great 8 people team, we developed a project titled "Petbook", an app that manages the adoptions, requests, approval and rejections of all the process inside the organization, it goes all along with the authentication for the users.
+
+I started developing web sites as a hobby about real state properties, the functionality included complete cruds using php and MySQL, I also designed other sites for logistics and sales, that managed the addresses and data of clients for a retail company.
