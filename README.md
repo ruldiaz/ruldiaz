@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rulhdiaz" target="blank"><img src="https://img.shields.io/twitter/follow/rulhdiaz?logo=twitter&style=for-the-badge" alt="rulhdiaz" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS and Typescript**
+- 🌱 Current Stack **Java and JavaScript**
 
 - 💬 Ask me about **React JS, Express JS, Node JS, Redux**
 
