@@ -8,7 +8,7 @@
 
 - 🌱 Current Stack **Java Full Stack and Javascript Full Stack || SQL and NoSQL **
 
-- 💬 Ask me about **Spring, Express, React, Node js, Redux**
+- 💬 Ask me about **Spring, Node js, Express, React, Redux**
 
 - 📫 How to reach me **rulhdiaz@gmail.com**
 
