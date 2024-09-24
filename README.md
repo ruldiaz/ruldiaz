@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rulhdiaz" target="blank"><img src="https://img.shields.io/twitter/follow/rulhdiaz?logo=twitter&style=for-the-badge" alt="rulhdiaz" /></a> </p>
 
-- 🌱 Current Stack **Java Full Stack & Javascript Full Stack || SQL and NoSQL **
+- 🌱 Current Stack **Java Full Stack & Javascript Full Stack, SQL and NoSQL **
 
 - 💬 Ask me about **Spring, Node js, Express, React, Redux**
 
