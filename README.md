@@ -2,6 +2,8 @@
 
 ### Full Stack Software Engineer | AI/LLM Applications | Claude Certified Architect
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/gif.gif">
+
 I'm a Full Stack Software Engineer focused on building web applications, APIs, business-oriented software products, and AI-powered applications.
 
 My current development stack includes:
