@@ -2,8 +2,6 @@ Hi, I'm Raúl H. Díaz Fernández
 
 Full Stack Software Engineer | AI/LLM Applications
 
-[animation]                         [profile views]
-
 I build web applications, APIs and business-oriented software products,
 with a focus on TypeScript, React, Node.js and AI-powered applications.
 
