@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer | AI/LLM Applications
 
-<img align="right" alt="Coding" width="400" src="YOUR_GIF_URL_HERE">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA5bGR5ZzBvaTA2MnU2a2ZuNGVqY3k5cWoyZXo5a2RjNGRrcjIzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ruldiaz&label=Profile%20views&color=0e75b6&style=flat" alt="ruldiaz" />
